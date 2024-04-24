@@ -6,9 +6,7 @@ These data are modelled using the OMOP Common Data Model v5.3.
 
 The name of the file corresponds to the table in the OMOP CDM.
 
-- [person](data/person.csv)
-- [procedure_occurrence](data/procedure_occurrence.csv)
-- [visit_occurrence](data/visit_occurrence.csv)
+<iframe src="https://widgets.figshare.com/articles/25676298/embed?show_title=0" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 ## Correlated Data Source
 
