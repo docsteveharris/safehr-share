@@ -11,16 +11,7 @@ The RANZCR CLiP dataset was used to train the model. [3] This dataset has been c
 Computational Information
 Training has been conducted using RTX 6000 cards with 24GB of graphics memory. A checkpoint was created after each epoch was saved with 220 checkpoints being generated so far. Each checkpoint takes up 1GB space in memory. Generating each epoch takes around 6 hours. Machine learning libraries such as TensorFlow, PyTorch, or scikit-learn are used to run the training, along with additional libraries for data preprocessing, visualization, or deployment.
 
-![Synthetic CXR Example 01](./images/1.png)
-![Synthetic CXR Example 02](./images/2_2.png)
-![Synthetic CXR Example 03](./images/10.png)
-![Synthetic CXR Example 04](./images/20.png)
-![Synthetic CXR Example 05](./images/36_2.png)
-![Synthetic CXR Example 06](./images/37.png)
-![Synthetic CXR Example 07](./images/39.png)
-![Synthetic CXR Example 08](./images/44_2.png)
-![Synthetic CXR Example 09](./images/44.png)
-![Synthetic CXR Example 10](./images/45.png)
+<iframe src="https://widgets.figshare.com/articles/25676277/embed?show_title=0" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 ## References
 
