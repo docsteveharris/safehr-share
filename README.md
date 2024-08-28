@@ -13,7 +13,7 @@ This site is built Jekyll: a static site generator written in Ruby. See the [Jek
 Then clone this repository:
 
 ```sh
-git clone https://github.com/UCLH-Foundry/uclh-research-discovery.git
+git clone https://github.com/SAFEHR-data/uclh-research-discovery.git
 ```
 
 And build and serve the site with:
