@@ -13,7 +13,7 @@ The simplest approach is to clone this repository locally.
 ## Preparing your submission
 
 ```sh
-git clone https://github.com/UCLH-Foundry/uclh-research-discovery.git
+git clone https://github.com/SAFEHR-data/uclh-research-discovery.git
 cd uclh-research-discovery
 ```
 
