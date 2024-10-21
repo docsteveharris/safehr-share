@@ -31,4 +31,4 @@ We recommend that teams share vignettes of key findings from their work here. Th
 
 ## How to contribute
 
-UCLH research teams can add their own projects to this site by making a [pull request](https://docs.github.com/articles/about-pull-requests) to our [GitHub repository](https://github.com/UCLH-Foundry/uclh-research-discovery). For detailed instructions, please see our [project submission process](./project_submission).
+UCLH research teams can add their own projects to this site by making a [pull request](https://docs.github.com/articles/about-pull-requests) to our [GitHub repository](https://github.com/SAFEHR-data/uclh-research-discovery). For detailed instructions, please see our [project submission process](./project_submission).
